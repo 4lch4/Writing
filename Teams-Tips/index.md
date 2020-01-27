@@ -44,9 +44,13 @@ Now, in order to tag a channel/person/group, all you have to do is type the `@` 
 
 ## Pin a Channel/Chat
 
-Ever use a channel
+Ever use a channel far more than any other channel in your team? Personally, I'm a member of the NOC so I keep an eye on a few different channels that have a higher priority than the rest. Those channels end up getting pinned like so:
 
-## Manage Contacts
+![My_Pinned_Channels][8]
+
+To pin a channel like this, simply right click the channel of interest, and click Pin:
+
+![Pin_A_Channel][9]
 
 [0]: https://products.office.com/en-us/microsoft-teams/group-chat-software
 [1]: ./img/Tagging_Over_1k.png
@@ -56,3 +60,5 @@ Ever use a channel
 [5]: ./img/New_Thread_Reply_Order.png
 [6]: ./img/Thread_B_The_Start.png
 [7]: ./img/Thread_B_The_End.png
+[8]: ./img/My_Pinned_Channels.png
+[9]: ./img/Pin_A_Channel.png
