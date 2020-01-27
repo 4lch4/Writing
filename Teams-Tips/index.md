@@ -6,12 +6,53 @@ _NOTE: These tips are written with a focus on the Desktop/Web clients. Some will
 
 ## Replying to Existing Threads/Messages
 
-If you're trying to reply to an existing message in a channel, if you click the Reply button before sending your message, it'll be in the same thread.
+If you're trying to reply to an existing message in a channel, if you click the Reply button before sending your message, it'll be in the same thread. This is *extremely* helpful when it comes to support questions or incidents that require follow up. For example, consider the following scenario:
+
+1. I create a new thread about a question I have regarding whatever, and this thread is referred to as **Thread A**.
+2. Someone replies to this thread about my question, and another person replies but not to this thread, they create a new thread:
+  ![New_Thread_Reply][3]
+
+3. Now someone else chimes in, but they reply to the original Thread A.
+   1. As long as you're watching this channel as it happens, it'll look something like this:
+      ![New_Thread_Reply_2][4]
+4. Then you go to another channel and come back, but what? Things are in a different order now:
+  ![New_Thread_Reply_Order][5]
+5. Okay... No big deal, it's just slightly confusing to keep up. But now someone starts a new thread with an entirely different topic, henceforth **Thread B**, and then someone replies to the original Thread A and so it all looks like this:
+   ![Thread_B_The_Start][6]
+6. Then... You leave the channel and come back, and now things are even more out of order:
+   ![Thread_B_The_End][7]
+
+After more and more messages are sent in various thread, and more threads are created, the one "Message about Thread A" will no longer be near the original Thread A and will be meaningless.
+
+Simply use the reply button underneath the thread, and all these problems are avoided.
 
 ## Tagging a Channel/User
 
+When you need to get the attention of an individual or group, tagging them is your best option. Before I get to the how-to portion of this, it's extremely important to note that when it comes to tagging channels or groups of people, realize just how many people you'll be sending a notification to before you send that message.
+
+Teams even has a neat feature that will show you if you're about to tag a lot of people:
+
+![Tagging_Over_1k][1]
+
+See how it says 1477 people will see this message? That means that all 1,477 of them will get a notification that appears on their screen, over everything else they're doing, saying that you just posted a message in that channel. So please, think twice before tagging channels/groups.
+
+Now, in order to tag a channel/person/group, all you have to do is type the `@` key and start typing the name of who you want to tag. Want to tag the GIT channel for support on this weird error you're getting in your git client?
+
+`@GIT`, and it'll give you a lovely pop-up to select who you actually mean:
+
+![Tagging_A_Channel][2]
+
 ## Pin a Channel/Chat
+
+Ever use a channel
 
 ## Manage Contacts
 
 [0]: https://products.office.com/en-us/microsoft-teams/group-chat-software
+[1]: ./img/Tagging_Over_1k.png
+[2]: ./img/Tagging_A_Channel.png
+[3]: ./img/New_Thread_Reply.png
+[4]: ./img/New_Thread_Reply_2.png
+[5]: ./img/New_Thread_Reply_Order.png
+[6]: ./img/Thread_B_The_Start.png
+[7]: ./img/Thread_B_The_End.png
