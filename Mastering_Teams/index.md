@@ -1,6 +1,11 @@
-# Tips for Teams (#1)
+# Mastering MS Teams, or Avoiding the Wrath of Sheriff Matt (#1)
 
-When it comes to using [Teams][0], not only are there a plethora of features available to you, there are new ones added frequently enough that it's difficult to keep up. The intent of this coming series is to explain as many of those features as possible starting with simple and escalating to more complex. This first entry is going to explain the more basic features so if you're looking for the latest and greatest, this isn't the right article for you 😛
+- [Mastering MS Teams, or Avoiding the Wrath of Sheriff Matt (#1)](#mastering-ms-teams-or-avoiding-the-wrath-of-sheriff-matt-1)
+  - [Replying to Existing Threads/Messages](#replying-to-existing-threadsmessages)
+  - [Tagging a Channel/User](#tagging-a-channeluser)
+  - [Pin a Channel/Chat](#pin-a-channelchat)
+
+When it comes to using [Teams][0], not only are there a plethora of features available to you, there are new ones [added frequently][10] enough that it's difficult to keep up. The intent of this series is to explain as many of those features as possible starting with simple and escalating to more complex. This first entry is going to explain the more basic features so if you're looking for the latest and greatest, this isn't the right article for you 😛
 
 _NOTE: These tips are written with a focus on the Desktop/Web clients. Some will work on mobile, but with slight differences._
 
@@ -62,3 +67,4 @@ To pin a channel like this, simply right click the channel of interest, and clic
 [7]: ./img/Thread_B_The_End.png
 [8]: ./img/My_Pinned_Channels.png
 [9]: ./img/Pin_A_Channel.png
+[10]: https://support.office.com/en-us/article/what-s-new-in-microsoft-teams-d7092a6d-c896-424c-b362-a472d5f105de
